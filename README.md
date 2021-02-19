@@ -1,6 +1,6 @@
-# Hello 👋, My Name is Angel Couso
-![](https://img.shields.io/github/followers/BkAngel201?style=social)   
 
+![](https://img.shields.io/github/followers/BkAngel201?style=social)   
+# Hello 👋, My Name is Angel Couso
 Im a Cuban Developer resident in US. Currently a Lambda School Student. I am passionate about minimalistic and simple design and "love" all kinds of Video Game Themed Designs. 
 
 ## 🤝 Connect with me:
