@@ -19,3 +19,5 @@ Im a Cuban Developer resident in US. Currently a Lambda School Student. I am pas
 
 ## GitHub Stats
 ![](https://github-readme-stats.jha-vineet69.vercel.app/api?username=BkAngel201&hide=stars&show_icons=true&hide_border=true&theme=buefy) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BkAngel201&hide=smalltalk&theme=buefy&layout=compact&hide_border=true)
+
+⭐️ From [Angel Couso](https://github.com/BkAngel201)
