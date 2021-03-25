@@ -1,7 +1,7 @@
 
 ![](https://img.shields.io/github/followers/BkAngel201?style=social)   
 # Hello 👋, My Name is Angel Couso
-Im a Cuban Developer resident in US. Currently a Lambda School Student. I am passionate about minimalistic and simple design and "love" all kinds of Video Game Themed Designs. 
+I’m a Cuban-born front end developer (US residency) and recentLambda School graduate. I am passionate about minimalisticand simple design and love allkinds of video game-themed designs. 
 
 ## 🤝 Connect with me:
 
